@@ -67,7 +67,7 @@ export default {
       group: 'media',
     },
     {
-      title: 'Client',
+      title: 'Broadcaster',
       name: 'client',
       type: 'string',
       group: ['basic', 'details'],
