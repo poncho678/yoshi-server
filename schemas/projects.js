@@ -67,6 +67,13 @@ export default {
       group: 'media',
     },
     {
+      title: 'Role',
+      name: 'role',
+      description: 'Not required.',
+      type: 'string',
+      group: ['basic', 'details'],
+    },
+    {
       title: 'Broadcaster',
       name: 'client',
       type: 'string',
